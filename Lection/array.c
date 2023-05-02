@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 //#include <conio.h> 
-//#define NULL 0
 
 int main(){
     int *array = NULL;
